@@ -1,3 +1,3 @@
 <h1>Hi I am Doniyor Majidov</h1>
 <h2>Front end react developer</h2>
-<div style="width:100%;height:0;padding-bottom:74%;position:relative;"><iframe src="https://giphy.com/embed/cIn5fTcjnKhStIeAef" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/stickers/PLCnext-plcnext-phoenixcontact-plcnexttechnology-cIn5fTcjnKhStIeAef">via GIPHY</a></p>
+<img src="https://media4.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif?cid=ecf05e47cqnxk5q9j7onlwzxvz05s0vltkykfkcj3xcw0s2j&rid=giphy.gif&ct=s" width="500" height="500" alt="coder">
