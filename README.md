@@ -2,7 +2,7 @@
          src="https://media0.giphy.com/media/gM5qFksULw54NMWyry/giphy.gif?cid=790b7611f3a39f8c20d7f3fece093745cdb018d46464f3c3&rid=giphy.gif&ct=s"
          style="width: 50px; height:50px; object-fit: contain; object-position: center;" alt="coder"></h1>
 
-   <h2>Front end react developer <img  width="200" height="60"
+   <h2>Front end react developer <img  width="140" height="60"
          src="https://media4.giphy.com/media/iFmw13LV1hHhViPPWz/giphy.gif?cid=ecf05e47mj881ln3r4r094bcns4ge5aqom94lysus4rkloe2&rid=giphy.gif&ct=s"
          alt="coder"></h2>
 
